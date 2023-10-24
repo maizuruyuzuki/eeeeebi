@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.countdown {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#timer {
+    font-size: 36px;
+    margin-top: 20px;
+}
